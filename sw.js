@@ -1,4 +1,4 @@
-const VERSION = "1771860785127";const preCache = ["/ukimoment.github.io/images/taichi.png","/ukimoment.github.io/images/banner.webp","/ukimoment.github.io/css/loader.css","/ukimoment.github.io/css/style.css","/ukimoment.github.io/js/script.js"];const cacheDomain = [
+const VERSION = "1771860846154";const preCache = ["/ukimoment.github.io/images/taichi.png","/ukimoment.github.io/images/banner.webp","/ukimoment.github.io/css/loader.css","/ukimoment.github.io/css/style.css","/ukimoment.github.io/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
